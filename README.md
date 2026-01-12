@@ -8,7 +8,7 @@
 **MonoMH** is a monocular 3D object detector that models **multiple plausible 3D hypotheses** per object and learns to select them for robust 3D localization.
 
 <p align="center">
-  <img src="assets/overall_framework.pdf" width="92%">
+  <img src="assets/overall_framework.png" width="92%">
 </p>
 
 ---
